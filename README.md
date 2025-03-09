@@ -19,9 +19,6 @@ The Smart Trash Classifier is an embedded system that automatically sorts waste 
 3. Deploy the trained model from Edge Impulse.
 4. Power the system and test classification.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 Developed as part of an embedded systems design project 
 
